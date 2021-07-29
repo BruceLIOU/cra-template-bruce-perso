@@ -1,0 +1,62 @@
+{
+  "name": "cra-template-bruce",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Bruce LIOU bruceliou@free.fr",
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "template.json",
+  "description": "A clean start Create React App template !",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BruceLIOU/cra-template-bruce",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/BruceLIOU/cra-template-reacteur/issues"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false CI= react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
