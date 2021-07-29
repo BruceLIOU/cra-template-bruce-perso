@@ -1,10 +1,10 @@
-## cra-template-bruce-perso
+# cra-template-bruce-perso
 
 A clean start Create React App template ! ;)
 
-# Move css files into folder
+## Move css files into folder
 
-# Change package.json for netifly
+## Change package.json for netifly
 
 ```json
   "scripts": {
@@ -14,7 +14,7 @@ A clean start Create React App template ! ;)
     "eject": "react-scripts eject"
   }
 ```
-# App.js className on parent div
+## App.js className on parent div
 
 Folders :
 - components
