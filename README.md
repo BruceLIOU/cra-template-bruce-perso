@@ -39,7 +39,7 @@ Folders :
     - fonts
 
 ```bash
-npx create-react-app my-app --template bruce-erso
+npx create-react-app my-app --template bruce-perso
 ```
 
 ### 🏠 [Homepage](https://github.com/BruceLIOU/cra-template-bruce-perso)
